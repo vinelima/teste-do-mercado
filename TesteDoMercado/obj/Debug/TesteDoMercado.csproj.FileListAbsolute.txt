@@ -1,0 +1,58 @@
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\obj\Debug\TesteDoMercado.csprojResolveAssemblyReference.cache
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\TesteDoMercado.dll.config
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\TesteDoMercado.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\TesteDoMercado.pdb
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\Antlr3.Runtime.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\EntityFramework.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\Microsoft.Web.Infrastructure.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\Newtonsoft.Json.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Net.Http.Formatting.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Http.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Http.WebHost.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Mvc.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Optimization.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Providers.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Razor.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Deployment.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Razor.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\WebGrease.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\EntityFramework.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\Newtonsoft.Json.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Net.Http.Formatting.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Http.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Http.WebHost.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Mvc.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.Razor.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Deployment.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Razor.xml
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\obj\Debug\TesteDoMercado.dll
+c:\users\'luucaas\documents\visual studio 2013\Projects\TesteDoMercado\TesteDoMercado\obj\Debug\TesteDoMercado.pdb
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\TesteDoMercado.dll.config
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\TesteDoMercado.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\TesteDoMercado.pdb
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\Antlr3.Runtime.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\EntityFramework.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\Microsoft.Web.Infrastructure.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\Newtonsoft.Json.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.Mvc.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.Optimization.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.Providers.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.Razor.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Deployment.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Razor.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\WebGrease.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\EntityFramework.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\Newtonsoft.Json.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.Mvc.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.Razor.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Deployment.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\bin\System.Web.WebPages.Razor.xml
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\obj\Debug\TesteDoMercado.csprojResolveAssemblyReference.cache
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\obj\Debug\TesteDoMercado.dll
+D:\Users\vslima\Desktop\x\TesteDoMercado\TesteDoMercado\obj\Debug\TesteDoMercado.pdb
